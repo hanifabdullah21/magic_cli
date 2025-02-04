@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "magic_cli",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generated": "2025-02-04T01:53:00.198623Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.4",
+  "flutterRoot": "file:///Users/cimpsss/development/flutter",
+  "flutterVersion": "3.24.4",
+  "pubCache": "file:///Users/cimpsss/.pub-cache"
+}
